@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>  
+
+  <project path="device/sony/bahamut" name="android_device_sony_bahamut" remote="kiso" />
+  <project path="device/sony/griffin" name="android_device_sony_griffin" remote="kiso" />
+  <project path="device/sony/sm8150-common" name="android_device_sony_sm8150-common" remote="kiso" />
+  <project path="kernel/sony/sm8150" name="android_kernel_sony_sm8150" remote="kiso" />
+  
+</manifest>

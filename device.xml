@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>  
+
+  <remote name="kiso"
+      fetch="https://github.com/kisodev"
+      revision="lineage-20" />
+
+  <include name="sony/kumano.xml" />
+  
+</manifest>
