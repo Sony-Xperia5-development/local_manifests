@@ -6,6 +6,6 @@
       fetch="https://github.com/kisodev"
       revision="lineage-21" />
 
-  <include name="sony/kumano.xml" />
+  <include name="local_manifests/sony/kumano.xml" />
   
 </manifest>
