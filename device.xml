@@ -4,7 +4,7 @@
 
   <remote name="kiso"
       fetch="https://github.com/kisodev"
-      revision="lineage-20" />
+      revision="lineage-21" />
 
   <include name="sony/kumano.xml" />
   
